@@ -7,7 +7,7 @@ LockedMe project allow user to manage their files as follow: -
   - Add files
   - Delete files
   - Search files
-  - exit from the app
+  - Close the app
 
 
 
