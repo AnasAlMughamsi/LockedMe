@@ -1,10 +1,7 @@
 package com.simplilearn.project;
-
 import com.simplilearn.project.FileManager;
-
 import java.io.IOException;
 import java.util.Scanner;
-
 /*
     ==========================================
         Title:  LockedMe.com site
@@ -12,7 +9,6 @@ import java.util.Scanner;
         Date:   1 Oct 2021
     ==========================================
  */
-
 public class LockedMe {
 
     private static Scanner input;
@@ -85,5 +81,4 @@ public class LockedMe {
                 managementMenu();
         }
     }
-
 }

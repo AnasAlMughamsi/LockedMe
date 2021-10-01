@@ -15,7 +15,7 @@ public class FileManager {
      6. Close app - done
      */
 
-    static final File folderPath = new File("F:\\MyWork\\FullJavaStack\\Projects\\Phase - 01\\FilesForLockedMe");
+    static final File folderPath = new File("F:\\MyWork\\FullJavaStack\\Projects\\LockedMe - Project\\FilesForLockedMe");
     LockedMe lockedMe = new LockedMe();
     private static Scanner input = new Scanner(System.in);
 
