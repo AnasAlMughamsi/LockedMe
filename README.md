@@ -16,7 +16,7 @@ LockedMe project allow user to manage their files as follow: -
 
 File  | Second Description
 ------------- | -------------
-LockedMe (main file)  | This file is the main file of program it show the main menu
-FileManager  | Contains methods of operation add/delete/seach/display
+LockedMe.java (main file)  | This file is the main file of program it show the main menu
+FileManager.java  | Contains methods of operation add/delete/seach/display
 
 
