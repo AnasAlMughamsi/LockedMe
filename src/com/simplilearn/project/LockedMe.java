@@ -5,6 +5,14 @@ import com.simplilearn.project.FileManager;
 import java.io.IOException;
 import java.util.Scanner;
 
+/*
+    ==========================================
+        Title:  LockedMe.com site
+        Author: Anas Al-Mughamsi
+        Date:   1 Oct 2021
+    ==========================================
+ */
+
 public class LockedMe {
 
     private static Scanner input;
