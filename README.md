@@ -14,7 +14,7 @@ LockedMe project allow user to manage their files as follow: -
 ## Component Hierarchy
 
 
-File  | Second Description
+File  | Description
 ------------- | -------------
 LockedMe.java (main file)  | This file is the main file of program it show the main menu
 FileManager.java  | Contains methods of operation add/delete/seach/display
@@ -22,5 +22,12 @@ FileManager.java  | Contains methods of operation add/delete/seach/display
 ## Technology 
 - Java
 - intellij IDEA
+
+# Scrum
+It took three sprint to finish the prototype
+## Sprint-1
+  - Build a welcome screen
+  - show the main menu
+  - show the second (management menu)
 
 
