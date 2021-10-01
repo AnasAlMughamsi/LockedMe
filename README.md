@@ -12,6 +12,7 @@ LockedMe project allow user to manage their files as follow: -
 
 
 ## Component Hierarchy
-Attempt | #1 | #2 |
---- | --- | --- |
-Seconds | 301 | 283 
+File | Description |
+LockedMe (main file) | --- |
+FileManager | 301
+
