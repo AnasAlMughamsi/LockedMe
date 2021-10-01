@@ -30,5 +30,22 @@ It took three sprint to finish the prototype
   - Build a welcome screen
   - show the main menu 
   - show the second (management menu)
-  - Close the app in both menu
+  - Support closing the app in both menus
+  - Testing
+```
+
+## Sprint-2
+```
+  - Add option 1 - Show all files in folder
+  - Add option 2 - add files in folder
+  - Add option 3 - delete files in folder
+  - Testing
+  
+```
+
+## Sprint-3
+```
+  - Add option 4 - search files in folder
+  - Add final touch for prototype
+  - Testing all functionality 
 ```
