@@ -12,11 +12,11 @@ LockedMe project allow user to manage their files as follow: -
 
 
 ## Component Hierarchy
-File | Description |
-LockedMe (main file) | ---
-FileManager | 301
 
 
-File | #1  | #2  |
-LockedMe (main file)   | :-: | :-: |
-FileManager | 301 | 283 |
+File  | Second Description
+------------- | -------------
+LockedMe (main file)  | Content Cell
+FileManager  | Content Cell
+
+
