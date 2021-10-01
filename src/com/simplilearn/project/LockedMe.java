@@ -23,6 +23,7 @@ public class LockedMe {
         System.out.println("\n\n\t\t****************************************");
         System.out.println("\t\tWelcome the main menu of LockedMe.com");
         System.out.println("\t\t****************************************");
+        System.out.println("\t\t--Develop by Anas Al-Mughamsi--");
 
     }
 
