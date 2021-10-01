@@ -26,8 +26,8 @@ FileManager.java  | Contains methods of operation add/delete/seach/display
 # Scrum
 It took three sprint to finish the prototype
 ## Sprint-1
-  - Build a welcome screen
-  - show the main menu
-  - show the second (management menu)
+  > Build a welcome screen
+  > show the main menu
+  > show the second (management menu)
 
 
