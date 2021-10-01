@@ -17,6 +17,6 @@ LockedMe (main file) | ---
 FileManager | 301
 
 
-| File | #1  | #2  |
-| LockedMe (main file)   | :-: | :-: |
-| FileManager | 301 | 283 |
+File | #1  | #2  |
+LockedMe (main file)   | :-: | :-: |
+FileManager | 301 | 283 |
