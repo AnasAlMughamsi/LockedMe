@@ -1,5 +1,6 @@
 # LockedMe Project
 ###### LockedMe project by Lockers Pvt. Ltd
+###### Developed by Anas Al-Mughamsi
 
 LockedMe project allow user to manage their files as follow: -
   - Show all files
