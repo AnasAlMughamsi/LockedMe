@@ -13,6 +13,6 @@ LockedMe project allow user to manage their files as follow: -
 
 ## Component Hierarchy
 File | Description |
-LockedMe (main file) | --- |
+LockedMe (main file) | ---
 FileManager | 301
 
