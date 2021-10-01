@@ -19,4 +19,8 @@ File  | Second Description
 LockedMe.java (main file)  | This file is the main file of program it show the main menu
 FileManager.java  | Contains methods of operation add/delete/seach/display
 
+## Technology 
+- Java
+- intellij IDEA
+
 
