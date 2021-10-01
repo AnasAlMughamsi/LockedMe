@@ -13,5 +13,5 @@ LockedMe project allow user to manage their files as follow: -
 
 ## Component Hierarchy
 Attempt | #1 | #2 |
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+--- | --- | --- |
+Seconds | 301 | 283 
